@@ -1,0 +1,303 @@
+{
+  "recipes": [
+    {
+      "name": "Profiteroles de Nata con Chocolate",
+      "time": 90,
+      "numPeople": 4,
+      "description": "Pequeños bocados dulces rellenos de nata y cubiertos con una deliciosa capa de chocolate. Perfectos para impresionar en cualquier ocasión especial.",
+      "ingredients": [
+        { "ingredient": "125 ml de agua" },
+        { "ingredient": "125 ml de leche entera" },
+        { "ingredient": "100 g de mantequilla" },
+        { "ingredient": "150 g de harina sin gluten" },
+        { "ingredient": "4 huevos medianos" },
+        { "ingredient": "Una pizca de sal" },
+        { "ingredient": "500 ml de nata para montar (mínimo 35% de materia grasa)" },
+        { "ingredient": "50 g de azúcar glas" },
+        { "ingredient": "200 g de chocolate negro sin gluten" },
+        { "ingredient": "100 ml de nata líquida para cocinar" }
+      ],
+      "instructions": [
+        { "instruction": "En una cacerola, calienta el agua, la leche, la mantequilla y la sal hasta que la mantequilla se derrita y la mezcla comience a hervir." },
+        { "instruction": "Retira del fuego y añade la harina sin gluten de golpe, mezclando enérgicamente hasta obtener una masa homogénea." },
+        { "instruction": "Deja enfriar la masa unos minutos. Luego, incorpora los huevos uno a uno, mezclando bien después de cada adición hasta obtener una masa suave y brillante." },
+        { "instruction": "Precalienta el horno a 200°C." },
+        { "instruction": "Coloca la masa en una manga pastelera con boquilla lisa y forma pequeñas bolitas sobre una bandeja con papel vegetal." },
+        { "instruction": "Hornea durante 20-25 minutos o hasta que estén dorados. Deja enfriar sobre una rejilla." },
+        { "instruction": "Monta la nata bien fría con el azúcar glas hasta obtener una consistencia firme." },
+        { "instruction": "Rellena los profiteroles con la nata montada usando una manga pastelera." },
+        { "instruction": "Calienta la nata líquida y añade el chocolate troceado, mezclando hasta que se derrita completamente." },
+        { "instruction": "Baña la parte superior de los profiteroles con el chocolate y deja que solidifique antes de servir." }
+      ],
+      "difficulty": "Media",
+      "tips": "Puedes congelar los profiteroles sin rellenar y añadir la nata justo antes de servir."
+    },
+    {
+      "name": "Tortitas de Nubes Matutinas",
+      "time": 25,
+      "numPeople": 2,
+      "description": "Pancakes esponjosos como algodón, hechos con harina de avena certificada sin gluten y claras montadas. Combinación perfecta de proteínas y fibra para empezar el día.",
+      "ingredients": [
+        { "ingredient": "1 taza de harina de avena sin gluten" },
+        { "ingredient": "3 claras de huevo" },
+        { "ingredient": "1/2 cda. de vinagre de manzana" },
+        { "ingredient": "1 cdta. de bicarbonato" },
+        { "ingredient": "1 cda. de sirope de coco" }
+      ],
+      "instructions": [
+        { "instruction": "Mezclar todos los ingredientes secos en un bol." },
+        { "instruction": "Montar las claras a punto de nieve e incorporarlas suavemente a la mezcla." },
+        { "instruction": "Cocinar en una sartén antiadherente a fuego medio-bajo hasta que se doren por ambos lados." }
+      ],
+      "difficulty": "Facil",
+      "tips": "Congelar por raciones y tostar ligeramente al recalentar."
+    },
+    {
+      "name": "Bangkok en tu Plato",
+      "time": 40,
+      "numPeople": 4,
+      "description": "Curry verde vibrante con leche de coco cremosa, tofu crujiente y fideos de arroz. Explosión de sabores umami y picante controlado.",
+      "ingredients": [
+        { "ingredient": "400 ml de leche de coco full fat" },
+        { "ingredient": "2 cdas. de pasta de curry verde (marca Thai Kitchen, certificada GF)" },
+        { "ingredient": "200 g de fideos de arroz" },
+        { "ingredient": "1 taza de judías verdes" },
+        { "ingredient": "1 pimiento rojo en tiras" },
+        { "ingredient": "1 cda. de salsa de pescado sin gluten (o tamari)" }
+      ],
+      "instructions": [
+        { "instruction": "Saltear la pasta de curry en aceite de coco durante 1 minuto." },
+        { "instruction": "Añadir la leche de coco y las verduras, cocinar a fuego medio durante 15 minutos." },
+        { "instruction": "Incorporar tofu previamente horneado y mezclar bien antes de servir." }
+      ],
+      "difficulty": "Media",
+      "tips": "Tostar coco rallado sin azúcar como topping crujiente."
+    },
+    {
+      "name": "Éxtasis de Cacao Puro",
+      "time": 20,
+      "numPeople": 8,
+      "description": "Mousse cremosa de aguacate y cacao 100% con base de nueces. Textura sedosa y rica en antioxidantes.",
+      "ingredients": [
+        { "ingredient": "1 taza de nueces" },
+        { "ingredient": "4 dátiles remojados" },
+        { "ingredient": "2 aguacates" },
+        { "ingredient": "1/2 taza de cacao en polvo" },
+        { "ingredient": "3 cdas. de miel de agave" },
+        { "ingredient": "Frambuesas frescas y nibs de cacao para decorar" }
+      ],
+      "instructions": [
+        { "instruction": "Procesar las nueces y los dátiles hasta obtener una masa compacta y colocar en la base de un molde." },
+        { "instruction": "Licuar los aguacates con el cacao en polvo y la miel de agave hasta obtener una mezcla homogénea." },
+        { "instruction": "Verter la crema sobre la base y refrigerar por al menos 4 horas antes de servir." }
+      ],
+      "difficulty": "Facil",
+      "tips": "Servir en copas de vidrio con hojas de menta."
+    }, 
+		{
+      "name": "Pizza de Coliflor Crujiente",
+      "time": 50,
+      "numPeople": 2,
+      "description": "Base crujiente y dorada hecha con coliflor, perfecta para quienes buscan una alternativa sin gluten y baja en carbohidratos.",
+      "ingredients": [
+        { "ingredient": "1 coliflor mediana" },
+        { "ingredient": "1 huevo" },
+        { "ingredient": "50 g de queso mozzarella rallado" },
+        { "ingredient": "1 cdta. de orégano" },
+        { "ingredient": "1/2 cdta. de ajo en polvo" },
+        { "ingredient": "1 pizca de sal" },
+        { "ingredient": "Salsa de tomate sin gluten" },
+        { "ingredient": "Toppings al gusto (queso, champiñones, pimientos, etc.)" }
+      ],
+      "instructions": [
+        { "instruction": "Precalienta el horno a 200°C y forra una bandeja con papel vegetal." },
+        { "instruction": "Ralla la coliflor y cocínala en el microondas durante 5 minutos. Luego, exprime bien el exceso de agua." },
+        { "instruction": "Mezcla la coliflor con el huevo, queso, orégano, ajo en polvo y sal." },
+        { "instruction": "Extiende la masa en la bandeja y hornea por 20 minutos hasta que esté dorada." },
+        { "instruction": "Añade la salsa de tomate y los toppings, luego hornea por 10 minutos adicionales." }
+      ],
+      "difficulty": "Media",
+      "tips": "Para una base más firme, puedes agregar 1 cucharada de harina de almendras."
+    },
+    {
+      "name": "Ñoquis de Boniato con Salsa de Almendras",
+      "time": 60,
+      "numPeople": 4,
+      "description": "Gnocchis suaves y ligeramente dulces hechos con boniato, servidos con una cremosa salsa de almendras.",
+      "ingredients": [
+        { "ingredient": "2 boniatos medianos" },
+        { "ingredient": "100 g de harina de almendra" },
+        { "ingredient": "1 huevo" },
+        { "ingredient": "1 pizca de nuez moscada" },
+        { "ingredient": "Sal y pimienta al gusto" },
+        { "ingredient": "50 ml de leche de almendras sin azúcar" },
+        { "ingredient": "30 g de almendras molidas" },
+        { "ingredient": "1 cda. de levadura nutricional" }
+      ],
+      "instructions": [
+        { "instruction": "Asa los boniatos hasta que estén tiernos, luego pélalos y tritúralos hasta hacer un puré." },
+        { "instruction": "Mezcla el puré con la harina de almendra, el huevo, la nuez moscada, la sal y la pimienta." },
+        { "instruction": "Forma cilindros y corta pequeños trozos para hacer los gnocchis." },
+        { "instruction": "Hierve los gnocchis hasta que floten y resérvalos." },
+        { "instruction": "Para la salsa, mezcla la leche de almendras con las almendras molidas y la levadura nutricional, calienta a fuego lento hasta espesar." }
+      ],
+      "difficulty": "Media",
+      "tips": "Puedes congelar los gnocchis antes de cocinarlos para una comida rápida."
+    },
+    {
+      "name": "Brownies de Garbanzos y Chocolate",
+      "time": 35,
+      "numPeople": 6,
+      "description": "Brownies húmedos y chocolatados hechos con garbanzos, sin harinas ni azúcares refinados. ¡Nadie creerá el ingrediente secreto!",
+      "ingredients": [
+        { "ingredient": "1 lata de garbanzos escurridos" },
+        { "ingredient": "2 huevos" },
+        { "ingredient": "1/3 taza de cacao en polvo" },
+        { "ingredient": "1/3 taza de miel o sirope de agave" },
+        { "ingredient": "1 cdta. de polvo de hornear" },
+        { "ingredient": "50 g de chocolate negro troceado" }
+      ],
+      "instructions": [
+        { "instruction": "Precalienta el horno a 180°C y engrasa un molde pequeño." },
+        { "instruction": "Procesa los garbanzos hasta obtener un puré suave." },
+        { "instruction": "Añade los huevos, cacao, miel y polvo de hornear, y mezcla hasta integrar bien." },
+        { "instruction": "Incorpora los trozos de chocolate y vierte la mezcla en el molde." },
+        { "instruction": "Hornea por 25 minutos, deja enfriar y corta en cuadrados." }
+      ],
+      "difficulty": "Facil",
+      "tips": "Añadir una cucharada de mantequilla de almendras a la mezcla para una textura más cremosa."
+    }, 
+		{
+			"name": "Tostadas de aguacate con huevo pochado",
+			"time": 10,
+			"numPeople": 1,
+			"description": "Un desayuno delicioso y lleno de energía, ideal para empezar el día con ingredientes frescos y saludables.",
+			"ingredients": [
+				{ "ingredient": "2 rebanadas de pan sin gluten" },
+				{ "ingredient": "1/2 aguacate maduro" },
+				{ "ingredient": "1 huevo" }
+			],
+			"instructions": [
+				{ "instruction": "Tuesta las rebanadas de pan sin gluten en una tostadora o en una sartén durante 2-3 minutos." },
+				{ "instruction": "Mientras, corta el aguacate por la mitad, quita el hueso y saca la pulpa con una cuchara." },
+				{ "instruction": "Aplasta el aguacate con un tenedor hasta obtener un puré, y añádele sal y pimienta al gusto." },
+				{ "instruction": "En una olla con agua hirviendo, coloca el huevo con mucho cuidado y cocina durante 3-4 minutos para obtener un huevo pochado." },
+				{ "instruction": "Coloca las tostadas en un plato, unta el aguacate y coloca el huevo pochado encima." }
+			],
+			"difficulty": "Facil",
+			"tips": "Puedes añadir un toque de limón al aguacate para más frescura."
+		}, 
+		{
+			"name": "Panqueques de avena sin gluten",
+			"time": 15,
+			"numPeople": 2,
+			"description": "Panqueques saludables, ligeros y fáciles de preparar, perfectos para un desayuno sin gluten lleno de sabor.",
+			"ingredients": [
+				{ "ingredient": "100g de avena sin gluten" },
+				{ "ingredient": "1 plátano" },
+				{ "ingredient": "50ml de leche (opcional)" },
+				{ "ingredient": "2 huevos" }
+			],
+			"instructions": [
+				{ "instruction": "Coloca la avena sin gluten, el plátano maduro pelado, los huevos y la leche (si se desea) en una licuadora o procesador de alimentos." },
+				{ "instruction": "Licúa hasta obtener una masa suave y homogénea." },
+				{ "instruction": "Calienta una sartén antiadherente a fuego medio y vierte un poco de la masa para formar los panqueques." },
+				{ "instruction": "Cocina durante 2-3 minutos por cada lado, hasta que estén dorados." },
+				{ "instruction": "Sirve con frutas frescas, miel o lo que más te guste." }
+			],
+			"difficulty": "Facil",
+			"tips": "Puedes agregar canela o vainilla a la mezcla para más sabor."
+		},
+		{
+			"name": "Muffins de plátano y nuez sin gluten",
+			"time": 30,
+			"numPeople": 12,
+			"description": "Muffins esponjosos y saludables, perfectos para una merienda o desayuno lleno de sabor y energía.",
+			"ingredients": [
+				{ "ingredient": "2 plátanos maduros" },
+				{ "ingredient": "150g de harina sin gluten" },
+				{ "ingredient": "50g de nueces" },
+				{ "ingredient": "100g de azúcar moreno" },
+				{ "ingredient": "2 huevos" }
+			],
+			"instructions": [
+				{ "instruction": "Precalienta el horno a 180°C y engrasa ligeramente un molde para muffins." },
+				{ "instruction": "En un bol grande, aplasta los plátanos con un tenedor hasta que estén bien triturados." },
+				{ "instruction": "Añade los huevos y el azúcar moreno al bol, y mezcla bien." },
+				{ "instruction": "Incorpora la harina sin gluten y mezcla hasta que se integren todos los ingredientes." },
+				{ "instruction": "Corta las nueces en trozos pequeños y agrégalas a la mezcla." },
+				{ "instruction": "Vierte la masa en los moldes para muffins y hornea durante 20-25 minutos o hasta que un palillo insertado salga limpio." }
+			],
+			"difficulty": "Facil",
+			"tips": "Puedes sustituir las nueces por almendras o avellanas para variar la receta."
+		}, 
+		{
+			"name": "Tacos de pescado con tortillas de maíz",
+			"time": 20,
+			"numPeople": 2,
+			"description": "Tacos frescos y ligeros con pescado a la plancha, perfectos para una comida saludable y sabrosa.",
+			"ingredients": [
+				{ "ingredient": "200g de pescado" },
+				{ "ingredient": "4 tortillas de maíz sin gluten" },
+				{ "ingredient": "100g de col rallada" },
+				{ "ingredient": "50g de salsa de aguacate" }
+			],
+			"instructions": [
+				{ "instruction": "Cocina el pescado a la plancha o en una sartén con un poco de aceite, durante unos 3-4 minutos por lado, hasta que esté completamente cocido." },
+				{ "instruction": "Calienta las tortillas de maíz en una sartén a fuego medio durante 1-2 minutos por cada lado." },
+				{ "instruction": "Coloca el pescado sobre las tortillas de maíz y añade un poco de col rallada sobre cada taco." },
+				{ "instruction": "Agrega salsa de aguacate al gusto y sirve." }
+			],
+			"difficulty": "Facil",
+			"tips": "Puedes añadir un poco de cilantro fresco o cebolla morada para darle más sabor."
+		}, 
+		{
+			"name": "Sopa de calabaza y coco sin gluten",
+			"time": 30,
+			"numPeople": 4,
+			"description": "Una sopa cremosa y reconfortante, ideal para los días fríos o como plato principal ligero.",
+			"ingredients": [
+				{ "ingredient": "500g de calabaza" },
+				{ "ingredient": "200ml de leche de coco" },
+				{ "ingredient": "1 cebolla" },
+				{ "ingredient": "2 dientes de ajo" },
+				{ "ingredient": "1 trozo pequeño de jengibre" }
+			],
+			"instructions": [
+				{ "instruction": "Pela y corta la calabaza en trozos pequeños." },
+				{ "instruction": "En una olla grande, sofríe la cebolla picada, el ajo picado y el jengibre rallado durante unos 5 minutos hasta que estén tiernos." },
+				{ "instruction": "Añade los trozos de calabaza y suficiente agua para cubrirla." },
+				{ "instruction": "Deja cocer durante 15-20 minutos hasta que la calabaza esté tierna." },
+				{ "instruction": "Tritura la mezcla con una batidora de mano o en una licuadora hasta obtener una crema suave." },
+				{ "instruction": "Añade la leche de coco, mezcla bien y cocina durante 5 minutos más." },
+				{ "instruction": "Rectifica de sal y pimienta antes de servir." }
+			],
+			"difficulty": "Facil",
+			"tips": "Puedes añadir un toque de cilantro fresco o chile para darle un extra de sabor."
+		}, 
+		{
+			"name": "Ensalada de quinoa con pollo y aguacate",
+			"time": 25, 
+			"numPeople": 2,
+			"description": "Una ensalada fresca y nutritiva, perfecta para un almuerzo ligero pero satisfactorio.",
+			"ingredients": [
+				{ "ingredient": "100g de quinoa" },
+				{ "ingredient": "200g de pechugas de pollo" },
+				{ "ingredient": "1 aguacate" },
+				{ "ingredient": "100g de tomates cherry" },
+				{ "ingredient": "2 cucharadas de aceite de oliva" },
+				{ "ingredient": "1 limón" }
+			],
+			"instructions": [
+				{ "instruction": "Cocina la quinoa siguiendo las indicaciones del paquete (generalmente, cocínala en agua con sal durante unos 15 minutos)." },
+				{ "instruction": "Mientras se cocina la quinoa, cocina las pechugas de pollo en una sartén con un poco de aceite de oliva durante 7-8 minutos por lado o hasta que estén completamente cocidas." },
+				{ "instruction": "Deja reposar el pollo durante unos minutos y córtalo en tiras finas." },
+				{ "instruction": "Corta el aguacate en cubos y los tomates cherry en mitades." },
+				{ "instruction": "En un bol grande, mezcla la quinoa cocida, el pollo en tiras, el aguacate y los tomates cherry." },
+				{ "instruction": "Aliña con aceite de oliva y el jugo de limón. Mezcla bien y sirve." }
+			],
+			"difficulty": "Facil",
+			"tips": "Puedes añadir frutos secos o semillas para un toque crujiente."
+		}								
+  ]
+}
