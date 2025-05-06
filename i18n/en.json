@@ -1,0 +1,352 @@
+{
+	"Drawer": {
+		"home": "Home", 
+		"favourites": "Favourites",
+		"profile": "Profile", 
+		"settings": "Settings", 
+		"contactUs": "Contact Us", 
+		"logOut": "Log Out", 
+		"header": {
+			"favourites": "Favourites", 
+			"profile": "Profile", 
+			"settings": "Settings", 
+			"contactUs": "Contact Us"
+		}
+	}, 
+	"Tabs": {
+		"restaurants": "Restaurants", 
+		"assistant": "Virtual Assistant", 
+		"products": "Products", 
+		"recipes": "Recipes" 
+	}, 
+	"Home": {
+		"restaurantPlaceholder": "Search restaurants", 
+		"restaurants": "Restaurants", 
+		"assistant": "Virtual Assistant", 
+		"recipes": "Recipes for you", 
+		"noLocation": "Location not available"
+	} ,
+	"Restaurants": {
+		"searchPlaceholder": "Restaurant name",
+		"nearbyRestaurants": "Nearby restaurants", 
+		"map": "Map"
+	}, 
+	"Restaurant": {
+		"noFavourites": "You don't have any favourite restaurants yet",
+		"header": "Nearby Restaurants", 
+		"headerId": "Restaurant", 
+		"errorId": "No data found for this restaurant. We apologize for the inconvenience.",
+		"placeholder": "Restaurant name", 
+		"distance": "km from you", 
+		"distance2": "At", 
+		"contactInfo": "Contact information", 
+		"services": "Services", 
+		"opinion": "Leave your opinion", 
+		"opinions": "View all reviews", 
+		"schedule": "See schedule", 
+		"AddRestaurant": {
+			"header": "Add restaurant", 
+			"direction": "📍 Select the restaurant's address", 
+			"selectDirection": "📍 Select an address", 
+			"delivery": "🚚 Does it offer delivery?", 
+			"takeOut": "🥡 Is takeout available?", 
+			"reserve": "📅 Can reservations be made?", 
+			"phonePlaceholder": "Phone", 
+			"webPlaceholder": "Website", 
+			"descriptionPlaceholder": "Brief description of the restaurant",
+			"description": "📝 Description", 
+			"schedule": "🕒 Schedule", 
+			"days": {
+				"Monday": "Monday",
+				"Tuesday": "Tuesday",
+				"Wednesday": "Wednesday",
+				"Thursday": "Thursday",
+				"Friday": "Friday",
+				"Saturday": "Saturday",
+				"Sunday": "Sunday"
+			}, 
+			"addRestaurant": "Add restaurant", 
+			"scheduleItemPlaceholder": "hh:mm - hh:mm or Closed", 
+			"services": {
+				"delivery": "🚚 Delivery", 
+				"takeOut": "🥡 Takeout", 
+				"reserve": "📅 Reserve"
+			}, 
+			"favourites": "Restaurant added to favourites!", 
+			"removeFavourites": "Restaurant removed from favourites!", 
+			"filters": "Filters",
+			"applyFiltersBtn": "Apply filters",
+			"restaurantHeader": "Restaurants",
+			"scheduleText": "Schedule"
+		}, 
+		"opinionScreen": {
+			"alert": "Opinion submitted successfully",
+			"alertTitle": "Thank you",
+			"opinionInput": "Enter your opinion",
+			"service": "Service",
+			"ambiance": "Ambiance",
+			"food": "Food",
+			"gfOptions": "Do they offer a menu exclusively for celiacs?",
+			"submitOpinion": "Submit opinion"
+		}
+	},
+	"Assistant": {
+		"Recipes": "Gluten-free recipe suggestions", 
+		"FyQ": "Frequently asked questions about gluten-free diet", 
+		"FoodRecomendations": "Personalized food recommendations based on your preferences", 
+		"Menus": "Help to plan gluten-free menus", 
+		"header": {
+			"recipes": "Recipes for you", 
+			"FyQ": "Ask your questions", 
+			"foodRecommendations": "Recommendations for you", 
+			"menus": "Plan your menus"
+		}, 
+		"form": {
+			"allergies": "🌱 Specific preferences", 
+			"allergyTypes": {
+				"lactose": "Dairy", 
+				"eggs": "Eggs", 
+				"fr": "Nuts", 
+				"soja": "Soy", 
+				"fish": "Fish", 
+				"seaFood": "Seafood"
+			}, 
+			"availability": "🛍️ Where do you usually shop?", 
+			"availabilityTypes": {
+				"supermarkets": "Supermarkets", 
+				"onlineShops": "Online shops", 
+				"specializedShops": "Specialized shops", 
+				"localMarkets": "Local markets"
+			}, 
+			"budget": "💵 Price range", 
+			"budgetTypes": {
+				"cheap": "Cheap", 
+				"medium": "Medium", 
+				"premium": "Premium"
+			}, 
+			"cookingFrequency": "🍳 How often do you cook?", 
+			"cookingFrequencyTypes": {
+				"few": "1-2 days a week", 
+				"sometimes": "3-4 days a week", 
+				"veryOften": "5 or more days a week"
+			}, 
+			"cookingTime": "⏳ Available cooking time",
+			"cookingTimeTypes": {
+				"short": "Less than 15 min",
+				"medium": "15-30 min",
+				"long": "More than 30 min"
+			},
+			"cuisinePreferences": "🌍 Culinary preferences",
+			"cuisineTypes": {
+				"international": "International",
+				"mexican": "Mexican",
+				"asian": "Asian",
+				"mediterranean": "Mediterranean",
+				"fusion": "Fusion"
+			},
+			"dayMoment": "⏰ For what time of the day?", 
+			"dayMomentTypes": {
+				"breakfast": "Breakfast", 
+				"lunch": "Lunch", 
+				"dinner": "Dinner", 
+				"specialTime": "Special occasion"
+			}, 
+			"dietPreferences": "🌱 Dietary preferences",
+			"dietTypes": {
+				"vegan": "Vegan",
+				"dairyFree": "Dairy-free",
+				"highProtein": "High protein",
+				"lowCarb": "Low carb"
+			},
+			"experience": "📆 Time following gluten-free diet",
+			"experienceTypes": {
+				"lessThan1": "Less than 1 year",
+				"oneToTen": "1 - 10 years",
+				"moreThanTen": "More than 10 years"
+			},
+			"flavourPreferences": "😋 Flavour preferences",
+			"flavourTypes": {
+				"sweet": "Sweet",
+				"salty": "Salty",
+				"spicy": "Spicy"
+			},
+			"healthProfile": "🩺 Your current situation", 
+			"healthTypes": {
+				"celiac": "Celiac disease",
+				"sensitive": "Sensitivity",
+				"personalChoice": "Personal choice"
+			},
+			"concerns": "❗ What are your biggest concerns?",
+			"concernTypes": {
+				"labelReading": "Label reading",
+				"crossContamination": "Cross-contamination",
+				"eatingOut": "Eating out",
+				"digestiveSymptoms": "Digestive symptoms",
+				"foodAlternatives": "Food alternatives",
+				"balancedNutrition": "Balanced nutrition"
+			},
+			"mealComplexity": "👨‍🍳 Recipe complexity",
+			"complexityTypes": {
+				"easy": "Easy",
+				"intermediate": "Intermediate",
+				"advanced": "Advanced"
+			},
+			"mealTimes": "⏰ What times do you need meal ideas for?",
+			"mealTimeTypes": {
+				"breakfast": "Breakfast",
+				"lunch": "Lunch",
+				"snack": "Snack",
+				"dinner": "Dinner",
+				"postWorkout": "Post-workout",
+				"snacks": "Snacks"
+			},
+			"skillLevel": "🎯 Cooking skill level",
+			"skillTypes": {
+				"beginner": "Beginner",
+				"intermediate": "Intermediate",
+				"advanced": "Advanced"
+			},
+			"topics": "📌 Select topics of interest",
+			"topicTypes": {
+				"recentDiagnosis": "Recent diagnosis",
+				"hiddenGluten": "Unexpected gluten-containing foods",
+				"medications": "Medication and supplements",
+				"travelAndSocial": "Travel and social life",
+				"kidsAndSchool": "Kids and school"
+			},
+			"spiceness": "🌶️ Spiciness level (optional)",
+			"spicenessTypes": {
+				"mild": "Mild",
+				"medium": "Medium",
+				"hot": "Hot"
+			}, 
+			"ingredientsKeyInput": "🥕 Key Ingredients (optional)",
+			"ingredientsKeyPlaceholder": "E.g., chicken, quinoa, spinach...",
+			"ingredientsAvoidInput": "❌ Ingredients to Avoid (optional)",
+			"ingredientsAvoidPlaceholder": "E.g., cauliflower, peppers...",
+			"takeAwayOptions": "Do you need easy-to-go meal options?",
+			"numPeople": "How many people is the recipe for?",
+			"additionalNotesInput": "✏️ Add any additional requirements (optional)",
+			"additionalNotesPlaceholder": "E.g., I prefer quick recipes, I like spicy food, etc."
+		}, 
+		"step": {
+			"stepIndicator": "Step {{current}} of {{total}}", 
+			"back": "Back", 
+			"next": "Next", 
+			"ask": "Ask the assistant"
+		}, 
+		"error": "Sorry, the assistant is currently unavailable. Please try again later.",
+		"prompts": {
+			"assistantFR": "{{metaData}}\n{{additionalContext}}\n\n⭐️ **User Preferences:**\n- Dietary preferences: {{dietaryPreferences}}\n- Price range needed by the user: {{budget}}\n- User usually shops at: {{availability}}\n- User needs gluten-free recipe ideas for: {{mealTimes}}\n- How often the user cooks per week: {{cookingFrequency}}\n- User's flavour preferences: {{flavourTypes}}\n- Culinary preferences: {{cuisineTypes}}\n- User's allergies: {{allergies}}\n- User's additional needs: {{additionalNotes}}\n\n{{warning}}\n{{answerFormat}}",
+			"assistantFyQ": "{{metaData}}\n{{additionalContext}}\n\n⭐️ **User Preferences:**\n- Current health profile: {{healthProfile}}\n- How long the user has been following a gluten-free diet: {{experienceLevel}} years\n- User's main concerns: {{mainConcerns}}\n- Topics the user is very interested in: {{specificTopics}}\n- User's additional questions: {{additionalNotes}}\n\n{{warning}}\n{{answerFormat}}",
+			"assistantMenus": "{{metaData}}\n{{additionalContext}}\n\n⭐️ **User Preferences:**\n- User's dietary preferences: {{dietaryPreferences}}\n- User's allergies: {{allergies}}\n- User's culinary preferences: {{cuisineTypes}}\n- Requested recipe complexity: {{mealComplexity}}\n- User's flavour preferences: {{flavourTypes}}\n- Key ingredients: {{ingredients}}\n- Ingredients to avoid: {{ingredientsToAvoid}}\n- Number of people for weekly planning: {{numPeople}}\n- Does the user need easy options for take-out?: {{takeAwayOptions}}\n- Spicy level: {{spicy}}\n- User's available cooking time: {{cookingTime}}\n- User's additional needs: {{additionalNotes}}\n\n{{warning}}\n{{answerFormat}}",
+			"assistantRecipes": "{{metaData}}\n{{additionalContext}}\n\n⭐️ **User Preferences:**\n- Meal time: {{selectedMealTime}}\n- Cooking skill level: {{selectedSkill}}\n- User's allergies: {{allergies}}\n- User's dietary preferences: {{dietaryPreferences}}\n- Favorite cuisine type: {{cuisineTypes}}\n- Number of people for recipes: {{numPeople}}\n- User's available cooking time: {{cookingTime}}\n- Does the user need easy options for take-out?: {{takeAwayOptions}}\n- Spicy level: {{spicy}}\n- Key ingredients: {{ingredients}}\n- Ingredients to avoid: {{ingredientsToAvoid}}\n- User's additional needs: {{additionalNotes}}\n\n{{warning}}\n{{answerFormat}}", 
+			"none": "None", 
+			"all": "Any"
+		}
+	}, 
+	"Products": {
+		"ingrHeader": "Ingredients", 
+		"categoriesText": "Available categories:", 
+		"ingredients": "Gluten-Free Ingredients", 
+		"searchIngredientsPlaceholder": "Search ingredients", 
+		"products": "Gluten-Free Products", 
+		"categories": {
+			"grains": "Grains and cereals", 
+			"legumes": "Legumes and nuts", 
+			"vegetables": "Vegetables and fruits", 
+			"lactose": "Dairy products", 
+			"meat": "Meats, fish, and seafood", 
+			"oil": "Oils and fats", 
+			"species": "Spices and seasonings", 
+			"others": "Others"
+		},
+		"warning": "⚠️ Warning",
+		"warningText": "Our mobile app provides a list of ingredients that are naturally gluten-free. However, it's important to remember that although these ingredients do not naturally contain gluten, they may be subject to cross-contamination during processing, storage, or preparation. For greater safety, always check product labels and certifications.",
+		"productsText": "This feature (browsing products, adding products, and scanning products) will be available soon in an upcoming update. Thank you for your patience, and we apologize for the inconvenience. 😉"
+	}, 
+	"Recipes": {
+		"header": "Recipe",
+		"people": "people",
+		"tips": "Tips",
+		"ingredients": "Ingredients",
+		"instructions": "Instructions",
+		"addRecipe": {
+			"header": "Add recipe",
+			"alert": "Recipe submitted successfully",
+			"alerTitle": "Thank you",
+			"recipeName": "Recipe name",
+			"time": "⏳ Preparation time (minutes):",
+			"difficulty": "⭐ Preparation difficulty:",
+			"easy": "Easy ⭐",
+			"medium": "Medium ⭐⭐",
+			"hard": "Hard ⭐⭐⭐",
+			"numPeople": "👥 How many people is the recipe for?",
+			"description": "😋 Brief description of the dish:",
+			"descriptionPlaceholder": "Description",
+			"photo": "📸 Photo of the final dish:",
+			"ingredients": "Ingredients",
+			"ingredientsPlaceholder": "Ingredient {{index}}",
+			"addIngredientBtn": "+ Add ingredient",
+			"instructions": "Instructions",
+			"instructionsPlaceholder": "Instruction {{index}}",
+			"addInstructionBtn": "+ Add instruction",
+			"tips": "📝 Additional tips:",
+			"tipsPlaceholder": "It is highly recommended to let it rest for 5 minutes before serving...",
+			"submitRecipeBtn": "Submit recipe"
+		}
+	},
+	"login": {
+		"hello": "Welcome back!",
+		"subheading": "Log in to enjoy a gluten-free lifestyle",
+		"emailInput": "Email",
+		"emailInputPlaceholder": "your@email.com",
+		"password": "Password",
+		"forgetPassword": "Forgot your password?",
+		"loginBtn": "Log In",
+		"loginBtnLoading": "Logging in...",
+		"dontHaveAnAccount": "Don't have an account?",
+		"register": "Sign Up",
+		"errors": {
+			"email": "Invalid email address",
+			"password1": "Password must be at least 6 characters long",
+			"password2": "Password is too long"
+		}
+	},
+	"register": {
+		"hello": "Sign Up!",
+		"name": "Name",
+		"email": "Email",
+		"password": "Password",
+		"termsAndConditions": "By creating an account, you agree to our",
+		"termsAndConditionsBtn": "Terms and Conditions",
+		"registerBtn": "Register",
+		"alredyHaveAnAccount": "Already have an account?",
+		"loginBtn": "Log In",
+		"errors": {
+			"name": "Name must be at least 2 characters long",
+			"email": "Invalid email address",
+			"password1": "Password must be at least 6 characters long",
+			"password2": "Password is too long"
+		}
+	}, 
+	"Profile": {
+		"header": "My Profile",
+		"error": "Could not update the username. Please try again.",
+		"success": "Done",
+		"alertText": "Your username has been successfully updated",
+		"data": "Your data",
+		"changeUsernameBtn": "Change username",
+		"preferences": "Your preferences",
+		"favouriteRestaurants": "Favourite restaurants",
+		"proposedRecipes": "Proposed recipes",
+		"proposedRestaurants": "Proposed restaurants"
+	}, 
+	"ContactUs": {
+		"header": "Contact Us",
+		"subHeading": "Tell us your suggestions and improvements",
+		"mail1": "Subject",
+		"placeholder": "Write your suggestions",
+		"sendBtn": "Send"
+	}
+}
